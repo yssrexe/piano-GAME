@@ -231,3 +231,5 @@ window.addEventListener("keydown", ({ keyCode }) => {
   // Press P
   if (keyCode === 76) return playE5();
 }); 
+
+alert("Use the Keyboard to play on the Piano");
